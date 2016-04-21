@@ -1,7 +1,7 @@
 var debug = require('debug')('chocoyobot:command:tuc');
-var DeviceModel = require('../../../models').devices;
-var TucCardModel = require('../models').tucCards;
-var i18n = require('../i18n');
+var DeviceModel = require('../../models').devices;
+var TucCardModel = require('./models').tucCards;
+var i18n = require('./i18n');
 var async = require('async');
 var Tuc = require('tuc');
 var tuc = new Tuc();
