@@ -8,14 +8,9 @@ module.exports = {
         primaryKey: true,
         autoIncrement: true,
       },
-      cardNumber: {
-        type: Sequelize.STRING,
-        unique: true,
-      },
+      cardNumber: Sequelize.STRING,
       alias: Sequelize.STRING,
-      deviceId: {
-        type: Sequelize.INTEGER,
-      },
+      deviceId: Sequelize.INTEGER,
       createdAt: {
         type: Sequelize.DATE,
       },

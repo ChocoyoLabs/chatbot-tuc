@@ -1,12 +1,7 @@
 module.exports = function (sequelize, DataTypes) {
   return sequelize.define('tucCards', {
-    cardNumber: {
-      type: DataTypes.STRING,
-      unique: true,
-    },
+    cardNumber: DataTypes.STRING,
     alias: DataTypes.STRING,
-    deviceId: {
-      type: DataTypes.INTEGER,
-    },
+    deviceId: DataTypes.INTEGER,
   });
 };
