@@ -11,6 +11,8 @@ Questions and Commands
 
 Agregar tarjeta tuc de Juan Perez 00000000
 
+Agregar tarjeta tuc 00000000 de Juan Perez
+
 Agregar tuc de Juan Perez 00000000
 
 Agregar tuc 00000000 de Juan Perez
