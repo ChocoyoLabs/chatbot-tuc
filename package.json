@@ -1,0 +1,28 @@
+{
+  "name": "chatbot-tuc",
+  "version": "1.0.0",
+  "description": "TUC commands to check balance on Chocoyo Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChocoyoLabs/chatbot-tuc.git"
+  },
+  "author": "Paulo McNally <paulo.mcnally@chocoyolabs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChocoyoLabs/chatbot-tuc/issues"
+  },
+  "homepage": "https://github.com/ChocoyoLabs/chatbot-tuc#readme",
+  "devDependencies": {
+    "sequelize": "3.21.0"
+  },
+  "dependencies": {
+    "async": "2.0.0-rc.3",
+    "debug": "2.2.0",
+    "titlecase": "1.1.2",
+    "tuc": "0.0.11"
+  }
+}
