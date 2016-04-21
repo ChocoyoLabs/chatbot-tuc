@@ -1,6 +1,6 @@
 {
   "name": "chatbot-tuc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TUC commands to check balance on Chocoyo Bot",
   "main": "index.js",
   "scripts": {
