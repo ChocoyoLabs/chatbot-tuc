@@ -20,6 +20,7 @@ Agregar tuc 00000000 de Juan Perez
 **tuc.delete**
 
 Eliminar tarjeta tuc 00000000
+
 Eliminar tuc 00000000
 
 ## Setup
